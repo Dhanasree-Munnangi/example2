@@ -1,2 +1,3 @@
 # example2
 hii
+I am editing the README file. Adding some more details about the project description.
